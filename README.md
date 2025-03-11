@@ -1,39 +1,16 @@
+<div align="center">
+
 # DevSora
 
-This template should help get you started developing with Vue 3 in Vite.
+</div>
 
-## Recommended IDE Setup
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%A8-Framework-222F29.svg?style=flat&colorA=222F29" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D" />
+</p>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+> <h5>This project is still update.</h5>
 
-## Type Support for `.vue` Imports in TS
+## License
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-yarn
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-yarn dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-yarn build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-yarn lint
-```
+Distributed under the MIT License. See `LICENSE` for more information.
